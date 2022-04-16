@@ -1,1 +1,1 @@
-{"version":"ac5895f1186997b7","fileName":"HashMap.java","fileSimpleName":"HashMap","fileType":"java","notes":{"465":"load factor  负载因子"}}
+{"version":"ac5895f1186997b7","fileName":"HashMap.java","fileSimpleName":"HashMap","fileType":"java","notes":{"465":"load factor  负载因子 默认 0.75"}}
