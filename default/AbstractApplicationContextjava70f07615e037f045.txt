@@ -1,1 +1,1 @@
-{"version":"70f07615e037f045","fileName":"AbstractApplicationContext.java","fileSimpleName":"AbstractApplicationContext","fileType":"java","notes":{"548":"创建前准备工作","551":"创建Bean工厂"}}
+{"version":"70f07615e037f045","fileName":"AbstractApplicationContext.java","fileSimpleName":"AbstractApplicationContext","fileType":"java","notes":{"916":"实例化bean","581":"4. 通过反射实例化bean","551":"1. 创建Bean工厂\n2. 加载beandefinition 信息","555":"3. 设置beanFactory属性"}}
