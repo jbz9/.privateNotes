@@ -1,0 +1,1 @@
+{"version":"cb85fcd766073cbe","fileName":"LinkedList.java","fileSimpleName":"LinkedList","fileType":"java","notes":{"160":"index\u003d0 插入节点是头节点，头节点的prev指向的是Null","562":"遍历链表，拿到元素","136":"1. 创建一个新节点，并且新节点的next是null \r\n2. 然后把前一个节点的后指针指向新节点"}}

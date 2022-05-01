@@ -1,0 +1,1 @@
+{"version":"f3770659c0aaa7ba","fileName":"BeanDefinition.java","fileSimpleName":"BeanDefinition","fileType":"java","notes":{"46":"Scope 默认单例"}}
