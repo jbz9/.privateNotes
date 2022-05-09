@@ -1,1 +1,1 @@
-{"version":"5ae902a8998504ee","fileName":"AbstractRefreshableApplicationContext.java","fileSimpleName":"AbstractRefreshableApplicationContext","fileType":"java","notes":{"129":"加载bean 信息","126":"创建bean工厂"}}
+{"version":"5ae902a8998504ee","fileName":"AbstractRefreshableApplicationContext.java","fileSimpleName":"AbstractRefreshableApplicationContext","fileType":"java","notes":{"129":"加载配置文件中的bean信息到bean工厂 beanDefinitionMap beanDefinitionNames","121":"是否有bean容器，有就销毁","126":"创建bean工厂","127":"设置序列化id，为了可以通过id反序列化到对象"}}

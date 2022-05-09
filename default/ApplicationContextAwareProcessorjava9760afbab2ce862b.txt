@@ -1,0 +1,1 @@
+{"version":"9760afbab2ce862b","fileName":"ApplicationContextAwareProcessor.java","fileSimpleName":"ApplicationContextAwareProcessor","fileType":"java","notes":{"117":"设置 applicationContext 属性"}}
