@@ -1,0 +1,1 @@
+{"version":"96be981973bc6097","fileName":"StringBuffer.java","fileSimpleName":"StringBuffer","fileType":"java","notes":{"93":"synchronized 线程安全"}}

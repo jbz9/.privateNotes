@@ -1,0 +1,1 @@
+{"version":"630cfadb5ce35dc1","fileName":"DefaultAopProxyFactory.java","fileSimpleName":"DefaultAopProxyFactory","fileType":"java","notes":{"52":"创建代理 判断是jdk 还是cglib","61":"目标类是接口"}}
